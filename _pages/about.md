@@ -4,7 +4,7 @@ title: 👨🏻‍💻 About
 description: Dave Nixon is a highly skilled web designer with years of industry experience. His creative journey began with a fascination for blending art and technology, and he has since honed his skills to become a versatile designer who can transform ideas into captivating visual narratives.
 permalink: /about/
 image: '/images/01-2.jpg'
-page_cover: '/images/01.jpg'
+page_cover: '/images/background.jpg'
 ---
 
 Dave believes that great design goes beyond aesthetics – it should tell a story, evoke emotions, and drive meaningful user interactions.

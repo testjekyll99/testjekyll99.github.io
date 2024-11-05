@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
-title: Priam
-description: Priam is a minimal portfolio theme for Jekyll.
+title: Richard Vogel - Technologie gegen Finanzkriminalität
+description: Cloud-Architekt und Java-Entwickler mit 12 Jahren Erfahrung. Mit Technologie gegen Finanzkriminalität (KYC, AML, CFT, FIU Reporting).
 color_scheme: auto # You have the option to choose between three modes: auto, light, and dark. The default mode is set to auto, which means that the color scheme will automatically adapt based on your operating system settings. This way, you can enjoy a personalized experience without having to manually switch between light and dark modes.
 
 
@@ -9,7 +9,7 @@ color_scheme: auto # You have the option to choose between three modes: auto, li
 # Global Cover
 global_cover:
   enable: true
-  homepage_image: "/images/01.jpg" # This line allows you to add a beautiful image at the top of your site, creating an eye-catching visual element that enhances the overall appearance and appeal.
+  homepage_image: "/images/background.jpg" # This line allows you to add a beautiful image at the top of your site, creating an eye-catching visual element that enhances the overall appearance and appeal.
 
 
 #-------------------------------
@@ -22,30 +22,24 @@ breadcrumbs:
 # Navigation Settings
 menu_settings:
   menu_items:
-    - title: '🏠 Home'
+    - title: 'Home'
       url: '/'
-    - title: '🚀 Projects'
+    - title: 'Services'
       url: '/projects/'
-    - title: '🎬 Videos'
-      url: '/videos/'
-    - title: '👨🏻‍💻 About'
+    - title: 'About'
       url: '/about/'
-    - title: '📷 Gallery'
-      url: '/gallery/'
-    - title: '✍️ Blog'
+    - title: 'Blog'
       url: '/blog/'
-    - title: '📔 Elements'
-      url: '/elements/'
 
 
 #-------------------------------
 # Author Settings
 author:
-  author_name: Dave Nixon
-  author_role: Web Designer
-  author_bio: 👨🏻‍💻 Geeky Web Designer ⭐️ Helping businesses create stunning online experiences 💡 Passionate about user-centered design and seamless functionality 🔥 Adobe Creative Suite expert ✨ Lover of clean code and responsive layouts 🚀 Let's turn your ideas into captivating websites together!
-  author_avatar: '/images/01-1.jpg'
-  cta_button_text: Get In Touch
+  author_name: Richard Vogel
+  author_role: Software-Developer und Architekt
+  author_bio: Als erfahrener Cloud-Architekt und Java-Entwickler mit über 12 Jahren Erfahrung in der Softwareentwicklung - 9 davon im Banken und Versicherungsumfeld - unterstütze ich Ihr Unternehmen dabei, effektive Lösungen zu entwickeln und zu integrieren. Meine Expertise liegt in der Implementierung maßgeschneiderter Technologien im Bereich der Bekämpfung von Finanzkriminalität und der Digitalisierung des Gesundheitswesens. Mit einem tiefen Verständnis für Softwarearchitektur (iSAQB zertifiziert) sowie modernen Cloud-Plattformen wie AWS helfe ich Ihnen, Systeme zu schaffen, die sowohl Compliance-Anforderungen erfüllen als auch höchste Effizienz und Skalierbarkeit bieten.
+  author_avatar: '/images/profile.png'
+  cta_button_text: Kontaktieren
   cta_button_link: '/contact/'
 
 
@@ -53,14 +47,14 @@ author:
 # Projects Settings
 projects_settings:
   enable: true
-  projects_title: Portfolio
+  projects_title: Services
   projects_description:
 
 
 #-------------------------------
 # Testimonials Settings
 testimonials:
-  enable: true
+  enable: false
   testimonials_title: Testimonials
   testimonials_description:
 
@@ -85,14 +79,14 @@ testimonial_items:
 # Blog Section
 blog_settings:
   enable: true
-  blog_title: Writing
+  blog_title: Blog
   blog_description:
 
 
 #-------------------------------
 # Videos Settings
 videos_settings:
-  enable: true
+  enable: false
   videos_title: Videos
   videos_description:
 
@@ -100,7 +94,7 @@ videos_settings:
 #-------------------------------
 # Gallery Section
 gallery_settings:
-  enable: true
+  enable: false
   gallery_title: Gallery
   gallery_description:
 
@@ -108,7 +102,7 @@ gallery_settings:
 #-------------------------------
 # Newsletter Settings
 mailchimp_settings:
-  enable: true
+  enable: false
   mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
   mailchimp_title: Get interesting news
   mailchimp_description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
@@ -119,16 +113,8 @@ mailchimp_settings:
 #-------------------------------
 # Social Icons Settings
 social:
-- {icon: "fa-brands fa-facebook", name: "Facebook", link: "https://facebook.com"}
-- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
-- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com"}
-- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
-- {icon: "fa-brands fa-tiktok", name: "Tiktok", link: "https://tiktok.com"}
-- {icon: "fa-brands fa-youtube", name: "Youtube", link: "https://youtube.com"}
-- {icon: "fa-brands fa-pinterest", name: "Pinterest", link: "https://pinterest.com"}
-- {icon: "fa-brands fa-dribbble", name: "Dribbble", link: "https://dribbble.com"}
-- {icon: "fa-brands fa-microsoft", name: "Microsoft", link: "https://microsoft.com"}
-- {icon: "fa-brands fa-vimeo-v", name: "Vimeo", link: "https://vimeo.com"}
+- {icon: "fa-brands fa-linkedin", name: "LinkedIn", link: "https://www.linkedin.com/in/richard-vogel-software/"}
+- {icon: "fa-brands fa-xing", name: "Xing", link: "https://www.xing.com/profile/Richard_Vogel8"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-dribbble", name: "Dribbble" link: "https://dribbble.com"}
 # Other icons can be found at https://fontawesome.com/search?o=r&m=free
@@ -137,7 +123,7 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your form_id
+  email: xvgoagra # Add your form_id
   description: Priam comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
@@ -146,9 +132,9 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+disqus-identifier: # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your GA Tracking Id
+google-analytics: G-J1V5W5LV4T
