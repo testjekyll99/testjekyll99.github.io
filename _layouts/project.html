@@ -11,7 +11,10 @@ layout: default
     <p class="page-description">{{ page.description }}</p>
     {% endif %}
     {% if page.label %}
-    <span class="page-label">{{ page.label }}</span>
+    {% assign labels = page.label | split: ',' %}
+    {% for label in labels %}
+    <span class="page-label">{{ label | strip }}</span>
+    {% endfor %}
     {% endif %}
   </div>
 
