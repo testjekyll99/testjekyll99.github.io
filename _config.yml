@@ -27,7 +27,7 @@ collections:
     permalink: /blog/:slug
   projects:
     output: true
-    permalink: /services/:slug
+    permalink: /projects/:slug
   videos:
     output: true
     permalink: /videos/:slug
