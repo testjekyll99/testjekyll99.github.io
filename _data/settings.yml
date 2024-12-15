@@ -24,8 +24,10 @@ menu_settings:
   menu_items:
     - title: 'Home'
       url: '/'
-    - title: 'Services'
+    - title: 'Branchen'
       url: '/projects/'
+    - title: 'Services'
+      url: '/services/'
     - title: 'About'
       url: '/about/'
 
@@ -45,7 +47,7 @@ author:
 # Projects Settings
 projects_settings:
   enable: true
-  projects_title: Services
+  projects_title: Branchen
   projects_description:
 
 
@@ -90,11 +92,11 @@ videos_settings:
 
 
 #-------------------------------
-# Gallery Section
-gallery_settings:
-  enable: false
-  gallery_title: Gallery
-  gallery_description:
+# Services Section
+services_settings:
+  enable: true
+  services_title: Services
+  services_description:
 
 
 #-------------------------------

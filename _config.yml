@@ -31,9 +31,9 @@ collections:
   videos:
     output: true
     permalink: /videos/:slug
-  gallery:
+  services:
     output: true
-    permalink: /gallery/:slug
+    permalink: /services/:slug
 
 # Pages Path
 defaults:
@@ -63,9 +63,9 @@ defaults:
       layout: "video"
   - scope:
       path: ""
-      type: "gallery"
+      type: "services"
     values:
-      layout: "gallery"
+      layout: "services"
 
 sass:
   sass_dir: _sass

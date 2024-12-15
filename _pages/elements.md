@@ -123,8 +123,8 @@ li {
 ![Photo](/images/12-1.jpg#wide)
 *Photo by [Blake Cheek](https://unsplash.com/photos/SiwWqSe8qrs) on [Unsplash](https://unsplash.com/)*
 
-<div class="page__gallery__wrapper">
-  <div class="page__gallery__images">
+<div class="page__services__wrapper">
+  <div class="page__services__images">
     <img src="/images/memories-1.jpg" loading="lazy">
     <img src="/images/memories-2.jpg" loading="lazy">
     <img src="/images/memories-3.jpg" loading="lazy">
@@ -132,7 +132,7 @@ li {
     <img src="/images/memories-5.jpg" loading="lazy">
     <img src="/images/memories-6.jpg" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  <em>Services / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
 ![Sea](/images/memories-9.jpg)

@@ -1,10 +1,15 @@
 ---
 title: Service zur Automatisierung von goAML XML Reporting
 description: Ich biete professionelle Dienstleistungen zur Automatisierung von goAML XML Reporting, einschließlich Datenkonvertierung, benutzerdefinierter Datenzuordnung und XML-Validierung.
-date: 2024-12-16 09:00:00 +0300
+gallery_columns: 2
 label: goAML, XML Reporting, Datenautomatisierung, KYC, AML, Finanzkriminalität
-image: '/images/service-goaml.png'
-page_cover:
+cover: '/images/service-goaml.png'
+caption: "Gallerie/Screenshots"
+images:
+  - image: "/images/service-goaml.png"
+    alt: Konfiguration über Excel-Dateien
+  - image: "/images/service-goaml.png"
+    alt: Erzeugtes XML einer hohen Bareinzahlung
 ---
 
 ### Service zur Automatisierung von goAML XML Reporting

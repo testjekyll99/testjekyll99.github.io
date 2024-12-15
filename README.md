@@ -21,7 +21,7 @@ Check the theme in action [Live Demo](https://priam-jekyll.netlify.app/) |
 - Optimized for mobile devices
 - Section Blog
 - Section Projects
-- Section Gallery
+- Section Services
 - Section Testimonials
 - Super fast performance ⚡⚡⚡
 - Social sharing buttons
@@ -29,7 +29,7 @@ Check the theme in action [Live Demo](https://priam-jekyll.netlify.app/) |
 - Compatible with modern browsers
 - Medium style image zoom
 - Image Lazy loading
-- Image gallery
+- Image services
 - Tags Page
 - Supports Video Posts
 - Supports contact form (Formspree)

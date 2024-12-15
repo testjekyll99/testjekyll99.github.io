@@ -1,15 +1,15 @@
-/* Gallery */
-.gallery {
+/* Services */
+.services {
   .contaniner__inner {
     margin-bottom: -32px;
   }
 }
 
-.gallery__item {
+.services__item {
   margin-bottom: 32px;
 }
 
-.gallery__content {
+.services__content {
   position: relative;
   padding: 24px;
   border: 1px solid var(--border-color);
@@ -19,12 +19,12 @@
   &:hover {
     background: var(--background-alt-color);
 
-    .gallery__cover {
+    .services__cover {
       transform: translateY(-3px);
     }
   }
 
-  .gallery__images {
+  .services__images {
     display: grid;
     grid-template-columns: repeat(2, auto);
     gap: 20px;
@@ -34,7 +34,7 @@
     width: 100%;
     overflow: hidden;
 
-    .gallery__images__box {
+    .services__images__box {
       transform: translate(0);
       border-radius: 8px;
       overflow: hidden;
@@ -50,8 +50,8 @@
   }
 
   @media (max-width: $desktop) {
-    .gallery__images {
-      .gallery__images__box {
+    .services__images {
+      .services__images__box {
         img {
           min-width: 134px;
           min-height: 134px;
@@ -61,8 +61,8 @@
   }
 
   @media (max-width: $tablet) {
-    .gallery__images {
-      .gallery__images__box {
+    .services__images {
+      .services__images__box {
         img {
           min-width: 229px;
           min-height: 229px;
@@ -74,10 +74,10 @@
   @media (max-width: $mobile) {
     padding: 20px;
 
-    .gallery__images {
+    .services__images {
       gap: 12px;
 
-      .gallery__images__box {
+      .services__images__box {
         img {
           min-width: 140px;
           min-height: 140px;
@@ -87,13 +87,13 @@
   }
 }
 
-.gallery__info {
+.services__info {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin-top: -53px;
 
-  .gallery__cover {
+  .services__cover {
     position: relative;
     display: inline-block;
     width: 100px;
@@ -117,7 +117,7 @@
     }
   }
 
-  .gallery__title {
+  .services__title {
     margin-bottom: 8px;
     font-size: 21px;
 
@@ -135,7 +135,7 @@
     }
   }
 
-  .gallery__date {
+  .services__date {
     font-size: 14px;
     font-weight: 500;
     line-height: 1;
@@ -143,16 +143,16 @@
   }
 }
 
-/* Page Gallery */
-.page__gallery__cover {
+/* Page Services */
+.page__services__cover {
   margin-bottom: 20px;
 }
 
-.page__gallery__wrapper {
+.page__services__wrapper {
   margin: 32px 0;
 }
 
-.page__gallery__images {
+.page__services__images {
   display: grid;
   grid-template-columns: repeat(3, auto);
   justify-content: center;

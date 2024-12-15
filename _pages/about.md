@@ -11,13 +11,13 @@ Dave believes that great design goes beyond aesthetics – it should tell a stor
 
 Browse through Dave's portfolio to see his impressive body of work. From sleek corporate websites to vibrant e-commerce platforms and immersive landing pages, each project showcases Dave's ability to translate ideas into impactful visual experiences. Get inspired by his use of color palettes, typography, and innovative design elements that push the boundaries of creativity.
 
-<div class="page__gallery__wrapper">
-  <div class="page__gallery__images">
+<div class="page__services__wrapper">
+  <div class="page__services__images">
     <img src="/images/01-3.jpg" loading="lazy">
     <img src="/images/01-4.jpg" loading="lazy">
     <img src="/images/01-5.jpg" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  <em>Services / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
 Ready to take your web design project to the next level? Contact Dave to discuss your requirements, explore design possibilities, and discover how his expertise can enhance your online presence. Dave is excited to collaborate with you and create visually stunning designs that make a lasting impact.
