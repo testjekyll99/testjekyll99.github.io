@@ -22,8 +22,7 @@ E-Mail: [webmaster@richard-vogel.de](mailto:webmaster@richard-vogel.de)
 
 ### Umsatzsteuer-ID
 
-Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:  
-Noch nicht vergeben. Ich werde steuerlich vertreten durch
+Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE369865076
 
 **Baumann & Partner**  
 Wirtschaftsprüfer und Steuerberater  
