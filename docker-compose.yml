@@ -2,6 +2,7 @@ version: '3.8'
 
 services:
   jekyll:
+    container_name: jekyll
     image: jekyll/jekyll
     command: jekyll build
     volumes:
@@ -9,6 +10,7 @@ services:
     working_dir: /srv/jekyll
 
   nginx:
+    container_name: nginx
     image: nginx
     ports:
       - "9999:80"
