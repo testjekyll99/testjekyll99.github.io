@@ -1,25 +1,35 @@
 ---
 layout: page
-title: 👨🏻‍💻 About
-description: Dave Nixon is a highly skilled web designer with years of industry experience. His creative journey began with a fascination for blending art and technology, and he has since honed his skills to become a versatile designer who can transform ideas into captivating visual narratives.
+title: Technologie-Experte
+description: Mit über 18 Jahren Erfahrung in Java und einem starken Fokus auf Qualität unterstütze ich Unternehmen in allen Bereichen der modernen Software-Entwicklung.
 permalink: /about/
-image: '/images/01-2.jpg'
+label: Java, Spring Boot, Testautomatisierung, Cloud-Security, Fullstack
+image: '/images/service-technology.jpg'
 page_cover: '/images/background.jpg'
 ---
 
-Dave believes that great design goes beyond aesthetics – it should tell a story, evoke emotions, and drive meaningful user interactions.
+### Technologie-Experte mit Leidenschaft und Erfahrung
 
-Browse through Dave's portfolio to see his impressive body of work. From sleek corporate websites to vibrant e-commerce platforms and immersive landing pages, each project showcases Dave's ability to translate ideas into impactful visual experiences. Get inspired by his use of color palettes, typography, and innovative design elements that push the boundaries of creativity.
+Meine Reise als Entwickler begann im Alter von 13 Jahren, als ich HTML und CSS für die Schülerzeitung entdeckte. Seitdem hat sich mein Wissen in vielen Bereichen erweitert, und ich bin heute ein erfahrener Experte in moderner Softwareentwicklung.
 
-<div class="page__services__wrapper">
-  <div class="page__services__images">
-    <img src="/images/01-3.jpg" loading="lazy">
-    <img src="/images/01-4.jpg" loading="lazy">
-    <img src="/images/01-5.jpg" loading="lazy">
-  </div>
-  <em>Services / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+### 18 Jahre Java-Erfahrung
 
-Ready to take your web design project to the next level? Contact Dave to discuss your requirements, explore design possibilities, and discover how his expertise can enhance your online presence. Dave is excited to collaborate with you and create visually stunning designs that make a lasting impact.
+Mit **18 Jahren Erfahrung in Java** bin ich Experte in **Spring Boot**, **JavaEE**, **JPA**, **Hibernate** und weiteren Java-Technologien. Von Microservices bis hin zu Enterprise-Lösungen unterstütze ich Unternehmen dabei, stabile und skalierbare Anwendungen zu entwickeln.
 
-Don't forget to connect with Dave on social media to stay updated on his latest projects, design insights, and industry trends. Follow him on Twitter, Instagram, and LinkedIn for a glimpse into his creative process and a dose of design inspiration.
+### Qualität durch Testautomatisierung und CI/CD
+
+Qualität steht bei mir an erster Stelle. Ich setze auf **Testautomatisierung**, **Continuous Integration** und **Continuous Deployment** (CI/CD) sowie **Infrastructure as Code** (IaC), um effiziente Entwicklungsprozesse und zuverlässige Softwarelösungen zu gewährleisten.
+
+### Domain-Driven Design und Architektur
+
+Mein Fokus auf **Domain-Driven Design (DDD)** reicht von der API-Spezifikation bis hin zum Datenbankmodell. Durch eine enge Zusammenarbeit mit Fachbereichen sorge ich dafür, dass technische Lösungen den tatsächlichen Anforderungen entsprechen.
+
+### Sicherheit und Cloud-Security
+
+Vertraut mit **OWASP**-Standards, **CVE-Handling**, **Web-Sicherheit** und **Cloud-Security**, stelle ich sicher, dass Ihre Anwendungen sowohl lokal als auch in der Cloud sicher betrieben werden können.
+
+### Fullstack-Erfahrung
+
+Als Fullstack-Entwickler bringe ich Erfahrung mit **Vue.js**, **Angular**, **JSF** und weiteren modernen Frameworks mit. So kann ich sowohl Frontend- als auch Backend-Komponenten umsetzen und nahtlos integrieren.
+
+In über 12 Jahren Berufserfahrung habe ich gelernt, dass nicht die Technologie im Vordergrund steht, sondern das Verständnis des eigentlichen Problems. Ich unterstütze Unternehmen, die passende technische Lösung zu finden und erfolgreich umzusetzen.
