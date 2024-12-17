@@ -6,10 +6,10 @@ label: goAML, XML Reporting, Datenautomatisierung, KYC, AML, Finanzkriminalität
 cover: '/images/service-goaml.png'
 caption: "Gallerie/Screenshots"
 images:
-  - image: "/images/service-goaml.png"
-    alt: Konfiguration über Excel-Dateien
-  - image: "/images/service-goaml.png"
+  - image: "/images/goaml-example-xml.png"
     alt: Erzeugtes XML einer hohen Bareinzahlung
+  - image: "/images/goaml-example-xsd.png"
+    alt: Öffentliches XSD der Luxemburgischen FIU
 ---
 
 ### Service zur Automatisierung von goAML XML Reporting

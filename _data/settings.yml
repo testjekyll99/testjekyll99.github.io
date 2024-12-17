@@ -24,10 +24,10 @@ menu_settings:
   menu_items:
     - title: 'Home'
       url: '/'
-    - title: 'Branchen'
-      url: '/projects/'
     - title: 'Services'
       url: '/services/'
+    - title: 'Branchen'
+      url: '/projects/'
     - title: 'About'
       url: '/about/'
 
@@ -37,7 +37,7 @@ menu_settings:
 author:
   author_name: Richard Vogel
   author_role: Ihr Experte für Technologie im Bereich Anti-Finanzkriminalität und Gesundheitswesen
-  author_bio: "Als erfahrener Cloud-Architekt und Java-Entwickler mit über 12 Jahren Erfahrung in der Softwareentwicklung - 9 davon im Banken und Versicherungsumfeld - unterstütze ich Ihr Unternehmen dabei, effektive Lösungen zu entwickeln und zu integrieren. Meine Expertise liegt in der Implementierung maßgeschneiderter Technologien im Bereich der Bekämpfung von Finanzkriminalität und der Digitalisierung des Gesundheitswesens.<p><p>Mit einem tiefen Verständnis für Softwarearchitektur (iSAQB zertifiziert) sowie modernen Cloud-Plattformen wie AWS helfe ich Ihnen, Systeme zu schaffen, die sowohl Compliance-Anforderungen erfüllen als auch höchste Effizienz und Skalierbarkeit bieten.<p><p><strong>Kontaktieren Sie mich um</strong><p><ul><li>Ihren Legacy-Monolithen fit für die Cloud zu machen.</li><li>Ihre KYC und AML Lösungen in Ihre Infrastruktur zu integrieren.</li><li>Ihre Java-Applikationen zu warten und zu modernisieren.</li><li>Ihre Software-Architektur zu bewerten und verbessern.</li></ul>"
+  author_bio: "Als erfahrener Cloud-Architekt und Java-Entwickler mit über 12 Jahren Erfahrung in der Softwareentwicklung - 9 davon im Banken und Versicherungsumfeld - unterstütze ich Ihr Unternehmen dabei, effektive Lösungen zu entwickeln und zu integrieren. Meine Expertise liegt in der Implementierung maßgeschneiderter Technologien im Bereich der <strong>Bekämpfung von Finanzkriminalität</strong> und der <strong>Digitalisierung des Gesundheitswesens</strong>.<p><p>Mit einem tiefen Verständnis für Softwarearchitektur (iSAQB zertifiziert) sowie modernen Cloud-Plattformen wie AWS helfe ich Ihnen, Systeme zu schaffen, die sowohl Compliance-Anforderungen erfüllen als auch höchste Effizienz und Skalierbarkeit bieten.<p><p><strong>Kontaktieren Sie mich um</strong><p><ul><li>Ihren <strong>Legacy-Monolithen</strong> fit für die Cloud zu machen.</li><li>Ihre <strong>KYC und AML</strong> Lösungen in Ihre Infrastruktur zu integrieren.</li><li>Ihren Meldeprozess an die <strong>FIU mit goAML XML</strong> Dateien zu automatisieren.</li><li>Einen <strong>PSD3-konformen IBAN-Name-Check</strong> zu implementieren.</li><li>Ihre <strong>Software-Architektur</strong> zu bewerten und verbessern.</li></ul>"
   author_avatar: '/images/profile.png'
   cta_button_text: Kontaktieren
   cta_button_link: '/contact/'
