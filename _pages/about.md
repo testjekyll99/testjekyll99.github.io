@@ -5,7 +5,7 @@ description: Mit über 18 Jahren Erfahrung in Java und einem starken Fokus auf Q
 permalink: /about/
 label: Java, Spring Boot, Testautomatisierung, Cloud-Security, Fullstack
 image: '/images/service-technology.jpg'
-page_cover: '/images/background.jpg'
+page_cover: '/images/hintergrund-unsplash.jpg'
 ---
 
 ### Technologie-Experte mit Leidenschaft und Erfahrung

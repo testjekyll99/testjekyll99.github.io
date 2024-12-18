@@ -5,6 +5,7 @@ gallery_columns: 2
 label: goAML, XML Reporting, Datenautomatisierung, KYC, AML, Finanzkriminalität
 cover: '/images/service-goaml.png'
 caption: "Gallerie/Screenshots"
+page_cover: '/images/hintergrund-unsplash.jpg'
 images:
   - image: "/images/goaml-example-xml.png"
     alt: Erzeugtes XML einer hohen Bareinzahlung

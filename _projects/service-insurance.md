@@ -4,7 +4,7 @@ description: Ich unterstütze Versicherungsunternehmen bei der Optimierung Ihrer
 date: 2024-11-07 08:01:35 +0300
 label: Versicherungen, AML, KYC, IT-Modernisierung, Risikobewertung
 image: '/images/service-insurance.jpg'
-page_cover:
+page_cover: '/images/hintergrund-unsplash.jpg'
 ---
 
 ### IT-Lösungen für den Versicherungsbereich

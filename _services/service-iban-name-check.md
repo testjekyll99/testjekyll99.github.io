@@ -4,12 +4,12 @@ description: Ich entwickle einen PSD3-konformen IBAN Name Check Service zur Vali
 gallery_columns: 2
 label: PSD3, IBAN, Name Check, Betrugsprävention, KYC, AML
 cover: '/images/service-iban-name-check.png'
-page_cover: 
+page_cover: '/images/hintergrund-unsplash.jpg' 
 caption: "Gallerie/Screenshots"
 images:
-  - image: "/images/service-iban-name-check.png"
-    alt: Konfiguration über Excel-Dateien
-  - image: "/images/service-iban-name-check.png"
+  - image: "/images/name-iban-check-psd3-sequence-diagram.png"
+    alt: Darstellung des Services im Sequenzdiagramm der EU
+  - image: "/images/name-iban-check-psd3-expectations.png"
     alt: Erzeugtes XML einer hohen Bareinzahlung
 ---
 

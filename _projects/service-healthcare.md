@@ -4,7 +4,7 @@ description: Als studierter Medizininformatiker unterstütze ich Healthcare-Unte
 date: 2024-11-07 08:01:35 +0300
 label: Health IT, Medizininformatik, Interoperabilität, IHE, HL7, FHIR
 image: '/images/service-healthcare.jpg'
-page_cover:
+page_cover: '/images/hintergrund-unsplash.jpg'
 ---
 
 ### Digitalisierung im Gesundheitswesen

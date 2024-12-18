@@ -4,7 +4,7 @@ description: Ich biete umfassende Unterstützung bei der Bewertung und Entwicklu
 date: 2024-11-07 08:01:35 +0300
 label: Software-Architektur, Skalierbarkeit, Cloud-Architektur, AWS, Resilienz
 image: '/images/service-architecture.jpg'
-page_cover:
+page_cover: '/images/hintergrund-unsplash.jpg'
 ---
 
 ### Bewertung und Entwicklung moderner Software-Architekturen

@@ -18,6 +18,31 @@ layout: default
     {% endif %}
   </div>
 
+
+  <div class="page__content">
+    {% if page.images or page.cover %}
+    <div class="page__services__wrapper">
+      {% if page.cover %}
+      <div class="page__services__cover">
+        <img src="{{ page.cover | relative_url }}" alt="{{ page.title }}" loading="lazy">
+      </div>
+      {% endif %}
+      <div class="page__services__images" {% if page.services_columns %}style="grid-template-columns: repeat({{ page.services_columns }}, auto);"{% endif %}>
+        {% for image in page.images %}
+        <img src="{{ image.image | relative_url }}" alt="{{ image.alt }}" loading="lazy">
+        {% endfor %}
+      </div>
+
+      {% if page.caption %}
+      <em>{{ page.caption }}</em>
+      {% endif %}
+    </div>
+    {% endif %}
+
+    {{ content }}
+  </div>
+
+
   {% if page.image %}
   <div class="page-image">
     <img class="lazy" data-src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.title }}">

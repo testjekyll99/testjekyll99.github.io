@@ -4,7 +4,7 @@ description: Ich unterstütze gerne bei der Entwicklung und Optimierung von Soft
 date: 2024-09-01 08:01:35 +0300
 label: AML, KYC, FIU, CFT, AFC, Anti-Financial-Crime
 image: '/images/service-afc.jpg'
-page_cover:
+page_cover: '/images/hintergrund-unsplash.jpg'
 ---
 
 ### Finanzkriminalität und moderne Abwehrmechanismen

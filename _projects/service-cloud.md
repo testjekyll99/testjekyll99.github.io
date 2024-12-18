@@ -4,7 +4,7 @@ description: Ich unterstütze Unternehmen dabei, ihre bestehenden Monolithen auf
 date: 2024-11-07 08:01:35 +0300
 label: Cloud Migration, Legacy Modernisierung, Kubernetes, Docker, 12-Factor
 image: '/images/service-cloud.jpg'
-page_cover:
+page_cover: '/images/hintergrund-unsplash.jpg'
 ---
 
 ### Cloudifizierung von Legacy-Systemen
