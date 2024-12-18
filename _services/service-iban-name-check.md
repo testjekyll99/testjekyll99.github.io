@@ -2,7 +2,8 @@
 title: PSD3-konformer IBAN Name Check Service
 description: Ich entwickle einen PSD3-konformen IBAN Name Check Service zur Validierung von Transaktionsdaten, einschließlich benutzerdefinierter Algorithmen und automatisierter Tests.
 gallery_columns: 2
-label: PSD3, IBAN, Name Check, Betrugsprävention, KYC, AML
+date: 2024-12-16 15:01:35 +0300
+label: PSD3, IBAN-Name-Check, Verification of Payee, VOP, Betrugsprävention
 cover: '/images/service-iban-name-check.png'
 page_cover: '/images/hintergrund-unsplash.jpg' 
 caption: "Gallerie/Screenshots"
