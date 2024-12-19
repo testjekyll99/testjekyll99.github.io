@@ -4,7 +4,7 @@ description: Ich entwickle einen PSD3-konformen IBAN Name Check Service zur Vali
 gallery_columns: 2
 date: 2024-12-16 15:01:35 +0300
 label: PSD3, IBAN-Name-Check, Verification of Payee, VOP, Betrugsprävention
-cover: '/images/service-iban-name-check.png'
+cover: '/images/psd3-iban-name-check-icon.png'
 page_cover: '/images/hintergrund-unsplash.jpg' 
 caption: "Gallerie/Screenshots"
 images:

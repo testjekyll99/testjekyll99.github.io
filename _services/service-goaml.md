@@ -4,7 +4,7 @@ description: Ich biete professionelle Dienstleistungen zur Automatisierung von g
 gallery_columns: 2
 date: 2024-11-01 10:00:00 +0200
 label: goAML, XML Reporting, XSD 1.1, SAR, STR, AML
-cover: '/images/service-goaml.png'
+cover: '/images/goaml-icon.png'
 caption: "Gallerie/Screenshots"
 page_cover: '/images/hintergrund-unsplash.jpg'
 images:

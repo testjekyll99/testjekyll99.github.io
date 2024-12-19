@@ -3,7 +3,8 @@ title: Bewertung und Entwicklung moderner Software-Architekturen
 description: Ich biete umfassende Unterstützung bei der Bewertung und Entwicklung moderner Software-Architekturen, um Skalierbarkeit und Effizienz sicherzustellen.
 date: 2024-11-07 08:01:35 +0300
 label: Software-Architektur, Skalierbarkeit, Cloud-Architektur, AWS, Resilienz
-image: '/images/service-architecture.jpg'
+image: '/images/service-software-architecture-icon.png'
+cover: '/images/service-software-architecture-icon.png'
 page_cover: '/images/hintergrund-unsplash.jpg'
 ---
 

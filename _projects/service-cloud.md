@@ -3,7 +3,8 @@ title: Cloudifizierung von Legacy-Systemen
 description: Ich unterstütze Unternehmen dabei, ihre bestehenden Monolithen auf Java-Basis fit für die Cloud zu machen und Cloud-Kompatibilität sicherzustellen.
 date: 2024-11-07 08:01:35 +0300
 label: Cloud Migration, Legacy Modernisierung, Kubernetes, Docker, 12-Factor
-image: '/images/service-cloud.jpg'
+image: '/images/cloud-migration-legacy-icon.png'
+cover: '/images/cloud-migration-legacy-icon.png'
 page_cover: '/images/hintergrund-unsplash.jpg'
 ---
 

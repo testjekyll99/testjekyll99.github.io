@@ -3,7 +3,8 @@ title: Digitalisierung im Gesundheitswesen
 description: Als studierter Medizininformatiker unterstütze ich Healthcare-Unternehmen bei der Implementierung und Integration moderner IT-Lösungen.
 date: 2024-11-07 08:01:35 +0300
 label: Health IT, Medizininformatik, Interoperabilität, IHE, HL7, FHIR
-image: '/images/service-healthcare.jpg'
+image: '/images/healthcare-icon.png'
+cover: '/images/healthcare-icon.png'
 page_cover: '/images/hintergrund-unsplash.jpg'
 ---
 
